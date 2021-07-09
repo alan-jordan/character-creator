@@ -81,8 +81,8 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+      <div style={{position: "absolute", bottom: "1px", height: "40%", background: "red"}}/>
       </MaxWidthWrapper>
-
     </main>
   );
 }
